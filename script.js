@@ -5,6 +5,7 @@ let botao = document.getElementById('botao');
 let tentativa = 1;
 let contIndex = 0;
 let escolheu = false;
+
 const blocos = 2;
 
 let images = [''];
